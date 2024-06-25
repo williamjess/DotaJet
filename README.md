@@ -14,7 +14,7 @@ clone the repo and use cd portfolio-next-js-main
 # then
 npm install
 # then
-npm run dev 
+npm run dev
 
 ```
 
